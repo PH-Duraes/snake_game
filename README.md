@@ -1,2 +1,2 @@
-# snake_game
+# Snake Game
 Jogo da cobrinha desenvolvido em Java
